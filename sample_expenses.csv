@@ -1,0 +1,501 @@
+ExpenseName,Amount
+Household Items,113.37
+School Fees,147.5
+Shopping,204.37
+Food Items,230.54
+Groceries,277.93
+Electricity Bill,317.4
+Water Bill,340.09
+Internet Bill,385.75
+Mobile Recharge,430.57
+Rent,452.69
+Transport,484.94
+Fuel,531.06
+Medicine,571.41
+Doctor Visit,620.35
+Insurance Premium,648.78
+Clothing,688.58
+Dining Out,733.12
+Entertainment,755.63
+Movie Tickets,799.17
+Gym Membership,826.25
+Books,865.52
+Stationery,910.0
+Tuition Fees,960.23
+Vegetables,993.72
+Fruits,1007.0
+Milk,1052.24
+Gas Cylinder,1100.61
+Home Maintenance,1120.93
+Furniture,1181.46
+Kitchen Supplies,1221.27
+Cleaning Supplies,1260.24
+Pet Food,1289.59
+Child Care,1315.56
+Parking Fee,1371.16
+Taxi Fare,1397.56
+Bus Pass,1434.34
+Train Ticket,1464.14
+Flight Ticket,1509.59
+Hotel Booking,1543.34
+Travel Expenses,1591.94
+Coffee,1638.87
+Snacks,1661.74
+Breakfast,1690.15
+Lunch,1742.71
+Dinner,1768.0
+Online Subscription,1824.16
+Streaming Service,1865.37
+Software Purchase,1877.88
+Gift Purchase,1931.76
+Festival Shopping,1955.29
+Phone Repair,1992.46
+Laptop Repair,2042.09
+Car Service,2091.94
+Bike Maintenance,2104.95
+Laundry,2150.27
+Courier Charges,2178.2
+Bank Fees,2235.08
+EMI Payment,2259.52
+Property Tax,2306.54
+Gardening,2354.73
+Water Purifier Service,2378.92
+Appliance Repair,2417.57
+Security Service,2465.97
+Office Supplies,2496.86
+Hardware Purchase,2538.79
+Cloud Subscription,2564.31
+Domain Renewal,2610.14
+Hosting Charges,2637.26
+Exam Fees,2693.97
+Sports Equipment,2720.62
+Beauty Products,2767.17
+Salon Visit,2806.67
+Vaccination,2833.5
+Dental Checkup,2865.21
+Eye Checkup,2909.16
+Printer Ink,2933.31
+Photocopy Charges,2995.61
+Charity Donation,3030.3
+Temple Donation,3067.01
+Event Tickets,3111.25
+Music Subscription,3141.69
+Gaming Purchase,3174.43
+Craft Supplies,3204.28
+Baby Products,3239.15
+School Uniform,3293.42
+Shoes,3328.46
+Accessories,3360.45
+Emergency Fund,3413.96
+Savings Deposit,3439.41
+Investment Contribution,3484.24
+Kitchen Appliances,3503.09
+Mattress,3546.71
+Bedsheets,3576.14
+Curtains,3631.67
+Decoration Items,3650.76
+Membership Fee,3699.88
+Conference Fee,3742.78
+Workshop Fee,3789.67
+Certification Fee,3829.38
+Parking Fine,3860.44
+Household Items,3901.5
+School Fees,3915.49
+Shopping,3979.31
+Food Items,3997.45
+Groceries,4036.09
+Electricity Bill,4090.69
+Water Bill,4129.99
+Internet Bill,4144.2
+Mobile Recharge,4190.48
+Rent,4217.41
+Transport,4275.25
+Fuel,4319.44
+Medicine,4344.41
+Doctor Visit,4394.0
+Insurance Premium,4428.98
+Clothing,4449.08
+Dining Out,4501.43
+Entertainment,4523.43
+Movie Tickets,4555.66
+Gym Membership,4620.2
+Books,4636.16
+Stationery,4685.18
+Tuition Fees,4707.2
+Vegetables,4745.89
+Fruits,4792.56
+Milk,4821.14
+Gas Cylinder,4866.18
+Home Maintenance,4921.12
+Furniture,4942.05
+Kitchen Supplies,4989.77
+Cleaning Supplies,5012.23
+Pet Food,5055.6
+Child Care,5099.16
+Parking Fee,5138.31
+Taxi Fare,5182.57
+Bus Pass,5223.99
+Train Ticket,5248.49
+Flight Ticket,5288.52
+Hotel Booking,5332.5
+Travel Expenses,5369.58
+Coffee,5386.52
+Snacks,5436.8
+Breakfast,5480.25
+Lunch,5514.79
+Dinner,5543.06
+Online Subscription,5578.87
+Streaming Service,5635.14
+Software Purchase,5667.64
+Gift Purchase,5711.1
+Festival Shopping,5748.92
+Phone Repair,5782.96
+Laptop Repair,5813.94
+Car Service,5853.15
+Bike Maintenance,5900.91
+Laundry,5923.96
+Courier Charges,5968.36
+Bank Fees,6011.82
+EMI Payment,6045.47
+Property Tax,6086.9
+Gardening,6120.78
+Water Purifier Service,6146.08
+Appliance Repair,6178.93
+Security Service,6220.29
+Office Supplies,6272.86
+Hardware Purchase,6315.13
+Cloud Subscription,6330.82
+Domain Renewal,6395.37
+Hosting Charges,6430.33
+Exam Fees,6464.04
+Sports Equipment,6481.68
+Beauty Products,6521.77
+Salon Visit,6560.6
+Vaccination,6598.43
+Dental Checkup,6638.53
+Eye Checkup,6693.06
+Printer Ink,6729.98
+Photocopy Charges,6759.77
+Charity Donation,6786.11
+Temple Donation,6838.1
+Event Tickets,6882.22
+Music Subscription,6909.69
+Gaming Purchase,6948.69
+Craft Supplies,6978.44
+Baby Products,7037.23
+School Uniform,7056.13
+Shoes,7095.32
+Accessories,7142.68
+Emergency Fund,7166.65
+Savings Deposit,7211.83
+Investment Contribution,7236.43
+Kitchen Appliances,7284.03
+Mattress,7339.37
+Bedsheets,7361.87
+Curtains,7401.83
+Decoration Items,7439.21
+Membership Fee,7473.27
+Conference Fee,7504.44
+Workshop Fee,7561.49
+Certification Fee,7598.87
+Parking Fine,7623.61
+Household Items,7654.7
+School Fees,7696.58
+Shopping,7752.54
+Food Items,7788.81
+Groceries,7817.72
+Electricity Bill,7850.19
+Water Bill,7900.59
+Internet Bill,7919.16
+Mobile Recharge,7969.17
+Rent,8002.59
+Transport,8032.97
+Fuel,8068.81
+Medicine,8123.6
+Doctor Visit,8168.88
+Insurance Premium,8185.21
+Clothing,8218.54
+Dining Out,8265.35
+Entertainment,8309.09
+Movie Tickets,8336.29
+Gym Membership,8380.87
+Books,8416.8
+Stationery,8458.43
+Tuition Fees,8488.57
+Vegetables,8533.04
+Fruits,8565.18
+Milk,8608.52
+Gas Cylinder,8657.66
+Home Maintenance,8696.03
+Furniture,8726.7
+Kitchen Supplies,8749.8
+Cleaning Supplies,8784.45
+Pet Food,8845.3
+Child Care,8877.79
+Parking Fee,8908.31
+Taxi Fare,8944.11
+Bus Pass,8994.03
+Train Ticket,9034.04
+Flight Ticket,9055.03
+Hotel Booking,9113.75
+Travel Expenses,9134.28
+Coffee,9161.9
+Snacks,9211.92
+Breakfast,9237.72
+Lunch,9294.81
+Dinner,9314.33
+Online Subscription,9368.62
+Streaming Service,9391.06
+Software Purchase,9445.14
+Gift Purchase,9467.33
+Festival Shopping,9522.95
+Phone Repair,9549.25
+Laptop Repair,9602.92
+Car Service,9639.2
+Bike Maintenance,9655.18
+Laundry,9713.48
+Courier Charges,9734.02
+Bank Fees,9767.3
+EMI Payment,9810.08
+Property Tax,9850.78
+Gardening,9881.39
+Water Purifier Service,9925.43
+Appliance Repair,9972.19
+Security Service,10014.29
+Office Supplies,10043.46
+Hardware Purchase,10085.16
+Cloud Subscription,10112.15
+Domain Renewal,10150.8
+Hosting Charges,10186.77
+Exam Fees,10224.21
+Sports Equipment,10281.37
+Beauty Products,10301.98
+Salon Visit,10338.85
+Vaccination,10379.1
+Dental Checkup,10407.71
+Eye Checkup,10448.33
+Printer Ink,10498.4
+Photocopy Charges,10526.37
+Charity Donation,10567.2
+Temple Donation,10613.4
+Event Tickets,10659.01
+Music Subscription,10691.24
+Gaming Purchase,10730.87
+Craft Supplies,10748.06
+Baby Products,10784.49
+School Uniform,10822.42
+Shoes,10867.37
+Accessories,10922.85
+Emergency Fund,10963.15
+Savings Deposit,10991.42
+Investment Contribution,11019.6
+Kitchen Appliances,11055.15
+Mattress,11097.52
+Bedsheets,11139.11
+Curtains,11168.23
+Decoration Items,11220.36
+Membership Fee,11245.18
+Conference Fee,11277.59
+Workshop Fee,11337.92
+Certification Fee,11368.95
+Parking Fine,11393.63
+Household Items,11439.66
+School Fees,11477.8
+Shopping,11526.15
+Food Items,11567.58
+Groceries,11583.05
+Electricity Bill,11614.84
+Water Bill,11656.35
+Internet Bill,11697.96
+Mobile Recharge,11736.95
+Rent,11774.28
+Transport,11811.12
+Fuel,11862.82
+Medicine,11899.18
+Doctor Visit,11925.27
+Insurance Premium,11975.84
+Clothing,11995.68
+Dining Out,12037.31
+Entertainment,12091.26
+Movie Tickets,12113.89
+Gym Membership,12158.12
+Books,12187.19
+Stationery,12235.75
+Tuition Fees,12274.02
+Vegetables,12305.26
+Fruits,12332.54
+Milk,12390.44
+Gas Cylinder,12427.34
+Home Maintenance,12457.83
+Furniture,12511.97
+Kitchen Supplies,12543.31
+Cleaning Supplies,12574.31
+Pet Food,12599.68
+Child Care,12638.02
+Parking Fee,12675.84
+Taxi Fare,12720.59
+Bus Pass,12763.87
+Train Ticket,12787.38
+Flight Ticket,12849.82
+Hotel Booking,12885.3
+Travel Expenses,12903.27
+Coffee,12946.06
+Snacks,12974.87
+Breakfast,13012.87
+Lunch,13049.78
+Dinner,13099.13
+Online Subscription,13148.78
+Streaming Service,13164.25
+Software Purchase,13211.87
+Gift Purchase,13259.85
+Festival Shopping,13291.28
+Phone Repair,13333.67
+Laptop Repair,13373.54
+Car Service,13405.12
+Bike Maintenance,13434.3
+Laundry,13466.3
+Courier Charges,13523.0
+Bank Fees,13560.92
+EMI Payment,13603.23
+Property Tax,13624.68
+Gardening,13663.82
+Water Purifier Service,13711.95
+Appliance Repair,13744.29
+Security Service,13778.4
+Office Supplies,13819.56
+Hardware Purchase,13865.0
+Cloud Subscription,13890.27
+Domain Renewal,13919.34
+Hosting Charges,13979.93
+Exam Fees,14007.17
+Sports Equipment,14041.74
+Beauty Products,14096.88
+Salon Visit,14120.77
+Vaccination,14153.94
+Dental Checkup,14187.55
+Eye Checkup,14238.78
+Printer Ink,14283.7
+Photocopy Charges,14302.79
+Charity Donation,14336.98
+Temple Donation,14374.56
+Event Tickets,14432.95
+Music Subscription,14474.49
+Gaming Purchase,14493.84
+Craft Supplies,14535.09
+Baby Products,14568.53
+School Uniform,14624.44
+Shoes,14649.03
+Accessories,14695.49
+Emergency Fund,14723.51
+Savings Deposit,14772.02
+Investment Contribution,14794.71
+Kitchen Appliances,14837.84
+Mattress,14889.44
+Bedsheets,14902.54
+Curtains,14958.87
+Decoration Items,14986.51
+Membership Fee,15041.08
+Conference Fee,15069.41
+Workshop Fee,15100.78
+Certification Fee,15133.18
+Parking Fine,15170.52
+Household Items,15228.55
+School Fees,15247.82
+Shopping,15280.53
+Food Items,15331.03
+Groceries,15370.41
+Electricity Bill,15412.04
+Water Bill,15445.71
+Internet Bill,15467.67
+Mobile Recharge,15527.32
+Rent,15568.28
+Transport,15606.85
+Fuel,15628.51
+Medicine,15678.03
+Doctor Visit,15705.6
+Insurance Premium,15758.14
+Clothing,15774.78
+Dining Out,15811.72
+Entertainment,15853.51
+Movie Tickets,15902.46
+Gym Membership,15947.05
+Books,15968.0
+Stationery,16002.45
+Tuition Fees,16051.2
+Vegetables,16092.18
+Fruits,16118.08
+Milk,16166.24
+Gas Cylinder,16208.38
+Home Maintenance,16236.95
+Furniture,16286.59
+Kitchen Supplies,16302.89
+Cleaning Supplies,16337.93
+Pet Food,16376.78
+Child Care,16426.75
+Parking Fee,16454.39
+Taxi Fare,16505.55
+Bus Pass,16524.55
+Train Ticket,16560.4
+Flight Ticket,16615.11
+Hotel Booking,16639.44
+Travel Expenses,16687.06
+Coffee,16735.12
+Snacks,16758.12
+Breakfast,16794.52
+Lunch,16834.51
+Dinner,16869.65
+Online Subscription,16921.36
+Streaming Service,16950.57
+Software Purchase,16994.24
+Gift Purchase,17027.2
+Festival Shopping,17074.95
+Phone Repair,17089.9
+Laptop Repair,17130.73
+Car Service,17184.2
+Bike Maintenance,17223.79
+Laundry,17251.0
+Courier Charges,17280.3
+Bank Fees,17342.88
+EMI Payment,17374.21
+Property Tax,17418.73
+Gardening,17453.87
+Water Purifier Service,17470.07
+Appliance Repair,17507.0
+Security Service,17547.89
+Office Supplies,17593.21
+Hardware Purchase,17624.04
+Cloud Subscription,17682.9
+Domain Renewal,17718.44
+Hosting Charges,17745.45
+Exam Fees,17795.37
+Sports Equipment,17830.31
+Beauty Products,17868.85
+Salon Visit,17891.69
+Vaccination,17942.92
+Dental Checkup,17972.73
+Eye Checkup,18002.22
+Printer Ink,18050.09
+Photocopy Charges,18071.44
+Charity Donation,18109.98
+Temple Donation,18148.51
+Event Tickets,18202.75
+Music Subscription,18248.17
+Gaming Purchase,18260.27
+Craft Supplies,18316.99
+Baby Products,18340.73
+School Uniform,18391.63
+Shoes,18413.77
+Accessories,18476.43
+Emergency Fund,18511.11
+Savings Deposit,18523.11
+Investment Contribution,18561.32
+Kitchen Appliances,18624.09
+Mattress,18654.23
+Bedsheets,18693.14
+Curtains,18722.32
+Decoration Items,18773.68
+Membership Fee,18794.24
+Conference Fee,18828.96
+Workshop Fee,18867.15
+Certification Fee,18917.13
+Parking Fine,18939.84

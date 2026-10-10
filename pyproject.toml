@@ -1,0 +1,26 @@
+[project]
+name = "Expance_manager"
+version = "0.1.0"
+description = "Expance manager"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "langchain-community>=0.4.1",
+    "langchain-groq>=1.1.0",
+    "langchain-huggingface>=1.1.0",
+    "faiss-cpu>=1.13.0",
+    "langgraph>=1.0.4",
+    "sentence-transformers>=5.1.2",
+    "fastapi>=0.143.0",
+    "uvicorn[standard]>=0.54.0",
+    "python-multipart>=0.0.32",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
